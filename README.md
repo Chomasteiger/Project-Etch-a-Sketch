@@ -47,4 +47,3 @@ Research button tags in HTML and how you can make a JavaScript function run when
 Also check out prompts.
 You should be able to enter 64 and have a brand new 64x64 grid pop up without changing the total amount of pixels used.
 Push your project to GitHub!
->>>>>>> 01c96a08b24a6a02ae4c2b7beb0f25de2007aec5
