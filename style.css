@@ -1,0 +1,25 @@
+#big-container{
+    width:400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 25px;
+    background-color: purple;
+}
+.row{
+    display: flex;
+    flex:auto;
+}
+.box{
+    background-color: lightgray;
+    flex:auto;
+}
+button{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    color:red;
+    background-color: lightblue;
+}
